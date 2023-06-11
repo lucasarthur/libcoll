@@ -2,6 +2,11 @@
 
 A `collections` library for C! (just studying, don't take it seriously)
 
+```sh
+  make
+  sudo make install
+```
+
 ## Copyright & License
 
 Copyright (c) 2023 Lucas Arthur
